@@ -1,0 +1,46 @@
+
+h1{
+    text-align:center;
+}
+.card{
+    width:350px;
+    margin:0 auto;
+    text-align:center;
+    border:1px solid rgb(129, 93, 93);
+    font-size:0;
+}
+
+.cal-head input{
+    width:100%;
+    box-sizing:border-box;
+    height:100px;
+    font-size:40px;
+    text-align:right;
+    padding-right:10px;
+    letter-spacing:5px;
+}
+
+.cal-body{}
+
+.cal-btn{
+    width: 87px;
+    height: 60px;
+    font-weight: 800;
+    background-color:#5d5d5d;
+    color:white;
+    border:1px solid white;
+    border-radius:5px;
+    transition:.4s;
+}
+.cal-btn:hover{
+    background-color:pink;
+    color:black;
+}
+.calc-btn{
+
+    background-color:#5F53B9;
+
+}
+.calc-orange{
+    background-color:orange;
+}
